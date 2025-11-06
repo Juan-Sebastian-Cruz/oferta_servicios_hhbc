@@ -1,27 +1,6 @@
-### Soluciones de TI con IA: Eficiencia y Escala para tu Negocio
+# 📄 Oferta de Servicios: Soluciones de TI con IA: Eficiencia y Escala para tu Negocio (HHBC)
 
-# 📊 Entregables Principales
-
-**Nota Importante sobre Precios:** Nuestra oferta se presenta como un **Paquete Integral "Confianza Total"**, con un precio único que abarca todas las fases: diagnóstico, implementación de la solución IA/TI elegida, capacitación y acompañamiento estratégico continuo. El valor final se cotizará de forma personalizada tras la **Auditoría Express** inicial.
-
-| Categoría de Servicio                   | Entregable                                                    | Descripción                                                                                                                                                                                                                                          |
-| :-------------------------------------- | :------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Auditorías de Procesos TI y Flujos de Trabajo** | Auditoría Express de Oportunidades de Automatización          | Un análisis rápido de 3-5 procesos clave del cliente para identificar el potencial de automatización con IA y estimar un ROI inicial. (Producto de entrada, rápido de vender).                                                            |
-|                                         | Auditoría Integral de Ecosistema Digital                      | Evaluación completa de los sistemas de gestión, flujos de trabajo, uso de datos y madurez digital de la empresa, culminando en un "roadmap" de optimización y automatización con IA.                                                    |
-| **Productos de IA para la Eficiencia Empresarial** | Agente Recepcionista Virtual (Voz/Chat) con Gestión de Calendarios | Asistente de IA que atiende llamadas/chats para agendamiento, confirmación de reservas y consultas de servicios, integrándose con calendarios y CRM. Objetivo: Liberar personal y optimizar la gestión de citas 24/7.                           |
-|                                         | Agente Calificador de Leads con IA (Voz/Chat)                 | Sistema de IA que, al recibir un lead, interactúa instantáneamente (llamada/chat) para verificar su potencial, consultar parámetros clave y calificar su calidad antes de pasarlo a ventas. Objetivo: Aumentar la conversión de leads. |
-|                                         | Chatbot de Atención al Cliente y Soporte 24/7 (Web/Canales)   | Chatbot de IA en web/canales para clientes/colaboradores que resuelve consultas frecuentes, guía en procesos simples y automatiza soporte de primer nivel. Objetivo: Reducir tickets y mejorar satisfacción 24/7.                           |
-|                                         | Sistema Automatizado de Digitalización y Extracción de Datos de Documentos (OCR/IA) | Solución de OCR y IA que escanea, lee y extrae información estructurada de documentos repetitivos, validando e integrando datos en sistemas de gestión. Objetivo: Eliminar ingreso manual y mantener bases de datos actualizadas.         |
-|                                         | Sistema Inteligente de Clasificación y Routing de Emails/Tickets (IA/NLP) | Sistema de IA que analiza el contenido de emails/tickets entrantes, los clasifica por tema/urgencia y los direcciona al equipo adecuado, o sugiere respuestas. Objetivo: Optimizar flujo de comunicación y tiempos de respuesta.         |
-| **Analítica de Datos y Business Intelligence** | Estrategia de Datos y Roadmap Digital                         | Definición de una estrategia de datos unificada. Incluye el diagnóstico de madurez digital y el plan de implementación (Roadmap) de las soluciones de Analítica, IA y Automatización.                                                      |
-|                                         | Reportes de Gestión y Business Intelligence (BI)              | Conexión a sistemas, definición de KPIs clave, y desarrollo de paneles (Power BI, Excel) e informes para la eficiencia operativa y toma de decisiones.                                                                                     |
-|                                         | Modelos de Predicción Avanada (Machine Learning)              | Creación de modelos en Python para: Predicción de demanda/ventas (forecast), scoring y segmentación de clientes, y automatización de decisiones de negocio.                                                                            |
-| **Capacitación y Asesoría en Adopción de IA** | Capacitación "IA para Directivos"                             | Conciencia estratégica sobre el potencial de la IA, casos de uso en la industria, implicaciones éticas y cómo liderar la transformación digital. (Sesiones cortas, ejecutivas).                                                              |
-|                                         | Capacitación "Fundamentos de IA para Equipos"                 | Entender qué es la IA, cómo funciona, y cómo interactuar con herramientas de IA en el día a día (para equipos operativos, marketing, ventas).                                                                                             |
-
----
-
-# ✨ NUEVA OFERTA INTEGRAL: Soluciones IA & TI "Confianza Total"
+## ✨ NUEVA OFERTA INTEGRAL: Soluciones IA & TI "Confianza Total"
 
 “Tu camino seguro hacia la eficiencia con Inteligencia Artificial: de la Estrategia al Éxito Continuo.”
 
@@ -29,123 +8,168 @@
 
 ### 1. Propósito General de esta Oferta
 
-Esta oferta está diseñada para PYMES y empresas en crecimiento que buscan una transformación digital real y medible a través de la Inteligencia Artificial y la automatización. Nuestro objetivo es ser tu socio de confianza, eliminando la complejidad y el riesgo asociados a la adopción tecnológica, brindando una solución **todo incluido**: desde el diagnóstico inicial hasta la implementación, capacitación y un acompañamiento estratégico continuo.
+Esta oferta está diseñada para PYMES y empresas en crecimiento que buscan una transformación digital real y medible a través de la Inteligencia Artificial y la automatización. Nuestro objetivo es ser tu **socio de confianza**, eliminando la complejidad y el riesgo asociados a la adopción tecnológica, brindando una solución **todo incluido** (Diagnóstico, Implementación, Capacitación y Acompañamiento Estratégico).
 
 ---
 
 ### 2. Propuesta de Valor Central: CONFIANZA TOTAL
 
-Nuestra oferta integral proporciona una **solución de IA y Optimización de TI llave en mano**, con un enfoque **absolutamente centrado en la confianza, la transparencia y el éxito a largo plazo**. No solo implementamos tecnología; construimos una relación duradera donde tu tranquilidad y el retorno de tu inversión son nuestra máxima prioridad.
+Nuestra oferta integral proporciona una **solución de IA y Optimización de TI llave en mano**, con un enfoque **absolutamente centrado en la confianza, la transparencia y el éxito a largo plazo**.
 
-El cliente no adquiere un servicio, sino una **asociación estratégica**: obtiene un equipo experto que lo guía paso a paso, desde la identificación precisa de sus necesidades hasta la implementación exitosa y el soporte continuo, asegurando que la IA no solo funcione, sino que genere un valor constante y medible para su negocio, **reduciendo el riesgo de adopción y garantizando resultados**.
+**Nuestro Compromiso de Confianza:** Garantizamos la **Propiedad Exclusiva de tus Datos** y operamos bajo un estricto **Compromiso con la Ética de la IA**, asegurando privacidad, transparencia y equidad en todas las soluciones implementadas.
 
-“Confía en que tu inversión en IA generará el impacto que esperas, porque estaremos contigo en cada paso del camino.”
-
----
-
-### 3. Análisis del Mercado (Reenfocado para "Confianza Total")
-
-**◆ Situación actual:**
-*   Las PYMES y empresas en crecimiento desean adoptar la IA y la automatización, pero a menudo se sienten abrumadas por la complejidad, el alto costo inicial y el riesgo de no obtener un retorno real.
-*   Existe escepticismo sobre la "promesa de la IA" debido a experiencias previas con proveedores que no entregan soluciones completas o dejan al cliente sin soporte post-implementación.
-*   La necesidad de un socio tecnológico confiable que ofrezca una solución integral, desde el diagnóstico hasta el mantenimiento y la evolución, es más alta que nunca.
-
-**◆ Necesidad detectada:**
-Las PYMES y empresas en crecimiento buscan un **socio tecnológico en el que puedan confiar plenamente**, que les ofrezca un **paquete de solución completo y transparente** para la IA, que minimice el riesgo de la inversión, garantice la correcta implementación y proporcione un soporte y asesoramiento continuos para asegurar el éxito a largo plazo. Necesitan la seguridad de que su inversión generará eficiencia y crecimiento.
-
-**◆ Oportunidad:**
-Nuestra oferta "Confianza Total" cubre ese vacío ofreciendo:
-*   **Riesgo Cero en la Identificación:** Un diagnóstico inicial para asegurar que la solución es la correcta.
-*   **Implementación sin Sorpresas:** Una metodología transparente y participativa.
-*   **Uso Garantizado:** Capacitación para asegurar la adopción y el manejo.
-*   **Valor Continuo:** Acompañamiento y asesoría para la optimización y el crecimiento futuro.
+> “Confía en que tu inversión en IA generará el impacto que esperas, porque estaremos contigo en cada paso del camino, desde el diagnóstico hasta el mantenimiento continuo.”
 
 ---
 
-### 4. Público Objetivo (Buyer Personas para "Confianza Total")
+### 📊 3. Entregables Principales del Paquete "Confianza Total"
 
-| Segmento / Buyer Persona                    | Perfil                                                                                                                                                                                                                                                                                                                             | Valoración de la "Confianza Total"                                       |
-| :------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------- |
-| **Dueño/Gerente de PYME (Cauteloso e Impaciente)** | Pequeñas y medianas empresas con operaciones en crecimiento. Alta dependencia de procesos manuales. Buscan soluciones de IA y automatización, pero desconfían de la complejidad y los proyectos largos. Necesitan ver valor rápido y sentirse respaldados.                                                                            | **Alta:** Valorarán la reducción de riesgo, el plan "llave en mano" y el soporte continuo para su primera incursión en IA. |
-| **Gerente de Operaciones/Administración (Sobrecargado)** | Negocios de servicios profesionales o empresas con alto volumen de gestión administrativa (agendas, correos, documentos). Luchan con la sobrecarga de trabajo y la inconsistencia de datos, pero el riesgo de fallar en la automatización es alto. Necesitan una solución fiable y alguien que los guíe.               | **Muy Alta:** Necesitan una solución que funcione y que su equipo pueda usar sin problemas. La capacitación y el soporte son clave. |
-| **Jefe de Ventas/Marketing (Enfocado en Conversión)** | Empresas con inversión significativa en publicidad digital. Generan leads pero tienen problemas en la calificación o en la rapidez de respuesta, lo que mina la confianza en sus estrategias de marketing. Buscan un socio que les garantice una mejora real en la conversión de leads.                                    | **Media-Alta:** La promesa de un ROI medible y el acompañamiento en la optimización de ventas les dará la confianza para invertir. |
-| **Líder de TI/Innovación (Enfoque Práctico)** | Departamentos o líderes dentro de empresas medianas que buscan integrar la IA de forma efectiva y capacitar a su personal, pero necesitan un enfoque práctico y probado, no solo consultoría teórica. Valoran la transferencia de conocimiento y el soporte técnico. | **Alta:** La metodología detallada, el uso de herramientas como N8N y la capacitación práctica les darán la seguridad de una implementación sólida. |
+**Nota Importante sobre Precios:** Nuestra oferta es un **Paquete Integral "Confianza Total"**, con un precio único que abarca todas las fases. El valor final se cotizará tras la **Auditoría Express** inicial.
+
+| Categoría de Servicio | Entregable | Descripción |
+| :--- | :--- | :--- |
+| **Diagnóstico y Diseño Estratégico** | Auditoría Express de Oportunidades de Automatización | Análisis rápido de 3-5 procesos clave. **Puede ser entregada gratuitamente** para demostrar el ROI potencial y reducir el riesgo inicial. |
+| **Implementación de Solución IA/TI** | Solución de IA/TI a la Medida | Implementación completa (MVP, Prueba, Entrega), alojada en **VPS seguro con HTTPS**, usando tecnologías Top (OpenAI, Claude, Postgress, etc.). |
+| **Capacitación y Adopción de Procesos** | **Capacitación "Procesos y Uso"** | Entrenamiento práctico enfocado en los **nuevos flujos de trabajo y buenas prácticas operacionales**. Garantiza la adopción. |
+| **Retención y Valor Continuo (Fase 4)** | Acompañamiento Estratégico (Incluido) | Seguimiento de KPIs, **corrección proactiva de errores, seguimiento de versiones** y optimización continua. Incluye **SLA Básico (Anexo 13)**. |
 
 ---
 
 ### 5. Metodología de Servicio: El Camino hacia tu Éxito con IA (Paquete "Confianza Total")
 
-Nuestra metodología se estructura en fases transparentes y colaborativas, garantizando que tu empresa no solo adopte la IA, sino que lo haga de forma estratégica, eficiente y con total confianza.
+#### Fase 1: Diagnóstico y Diseño de Estrategia (La Brújula de tu Transformación)
+*   **Negociación de Riesgo Cero:** **Podemos ofrecer esta Auditoría Express inicial sin costo (gratis)**. Esto minimiza tu riesgo de inversión inicial.
+*   **Co-creación y Presupuesto "Confianza Total":** Se entrega el diseño de solución, estimación de ROI y la propuesta de **Precio Único Final** del paquete.
 
-**Fase 1: Diagnóstico y Diseño de Estrategia (La Brújula de tu Transformación)**
-*   **Objetivo:** Entender profundamente tus procesos, identificar los puntos de dolor más relevantes y diseñar la solución de IA/TI más adecuada y de mayor impacto para tu negocio.
-*   **Metodología:**
-    *   **Auditoría Express de Oportunidades de Automatización:** Realizamos un análisis rápido de 3-5 procesos clave que identificaremos juntos. Utilizamos entrevistas estructuradas con tu equipo, análisis de flujos de trabajo actuales y mapeo de procesos (con herramientas como **Miro** o **Lucidchart**).
-    *   **Co-creación de la Solución:** Presentamos un informe ejecutivo con recomendaciones priorizadas, una estimación preliminar del ROI y te involucramos activamente en la definición de la solución específica de IA/TI a implementar (ej. Agente Recepcionista, Calificador de Leads, Digitalización de Documentos, etc.).
-*   **Enfoque en la Confianza:** Total transparencia en el diagnóstico. Te mostramos exactamente dónde y cómo la IA generará valor antes de avanzar. Validamos cada paso contigo para asegurar la alineación.
-*   **Información Clave para el Cliente:** Recibirás un informe detallado con el potencial de ROI, el proceso de IA/TI propuesto y los entregables esperados.
+#### Fase 2: Implementación y Desarrollo (Construyendo tu Solución)
+*   **Fase 2.1: Desarrollo del Producto Mínimo Viable (MVP):** Desarrollo de funcionalidades esenciales. **Acceso a Dashboard de Seguimiento de Proyecto** para ver el progreso. Se integra la solución con tus sistemas existentes o se proponen los más acordes.
+*   **Fase 2.2: Período de Prueba y Puesta en Marcha (Transparencia en la Optimización):** Implementación del MVP para una **revisión intensiva, corrección de errores y pruebas de estrés**. Somos **completamente transparentes** al indicar que este tiempo es crucial para la estabilidad, la mejora continua y la optimización.
+*   **Tecnologías Top del Mercado para Máximo Rendimiento:**
+    *   **Orquestación:** n8n o Make.
+    *   **Modelos de IA Avanzados:** OpenAI, Google AI (Gemini), Anthropic **Claude** y **Perplexity**.
+    *   **Gestión de Datos a la Medida:** **PostgreSQL, Redis, Supabase** o Google Sheets, según la necesidad.
+    *   **Seguridad Certificada:** Solución alojada en **VPS** con **cifrado de datos y certificación HTTPS**.
 
-**Fase 2: Implementación y Desarrollo (Construyendo tu Solución)**
-*   **Objetivo:** Desarrollar e integrar la solución de IA/TI acordada de manera eficiente, segura y funcional, adaptándola perfectamente a tu ecosistema tecnológico.
-*   **Metodología:**
-    *   **Desarrollo Ágil e Iterativo:** Trabajamos en ciclos cortos, con entregas y demos frecuentes. Tu feedback es esencial en cada etapa del desarrollo para asegurar que la solución cumpla tus expectativas.
-    *   **Selección y Uso de Tecnologías Robustas:** Implementamos soluciones utilizando herramientas probadas y flexibles como **n8n** para la orquestación y automatización de flujos. Integramos modelos de lenguaje avanzados (LLMs) como **Google Gemini** u **OpenAI** para capacidades conversacionales y de procesamiento. Para digitalización, empleamos tecnologías **OCR/IA** (ej. Tesseract, Google Cloud Vision, o librerías de Python para procesamiento documental). La integración con tus sistemas existentes (CRM como **Salesforce/HubSpot**, ERP como **SAP Business One/Zoho ERP**, plataformas de comunicación como **WhatsApp Business API/Twilio**) se realiza vía APIs, garantizando una conexión fluida y segura.
-    *   **Pruebas Rigurosas:** Realizamos pruebas exhaustivas en entornos controlados para asegurar la fiabilidad, seguridad y rendimiento de la solución antes de su puesta en marcha.
-*   **Enfoque en la Confianza:** Mantenemos una comunicación constante, te involucramos en las demos de avance y garantizamos la seguridad de tus datos. La transparencia en el proceso de desarrollo reduce la incertidumbre y construye credibilidad.
-*   **Información Clave para el Cliente:** Acceso a un panel de seguimiento del proyecto, documentación técnica clara y validaciones en hitos clave.
+#### Fase 3: Capacitación y Habilitación (Empoderando a tu Equipo con Nuevos Procesos)
+*   **Enfoque en la Confianza:** Nuestro compromiso es que tu equipo se sienta **seguro y competente** a través de la formación práctica centrada exclusivamente en los **nuevos flujos de trabajo**.
 
-**Fase 3: Capacitación y Habilitación (Empoderando a tu Equipo)**
-*   **Objetivo:** Asegurar que tu equipo esté completamente capacitado y cómodo con la nueva herramienta de IA/TI, garantizando su adopción exitosa y el máximo aprovechamiento, a través de la comprensión de los nuevos procesos y buenas prácticas.
-*   **Metodología:**
-    *   **Programas de Capacitación Modulares y Adaptados a Nuevos Procesos:** Diseñamos el plan de capacitación según los roles que interactuarán con la nueva solución. El enfoque es en las buenas prácticas, los nuevos flujos de trabajo y la operación correcta de la herramienta implementada. El contenido se extraerá de nuestros módulos especializados:
-        *   **"IA para Directivos":** Conciencia estratégica sobre cómo la IA impacta los procesos de negocio y liderazgo en la adopción de nuevas prácticas.
-        *   **"Fundamentos de IA para Equipos":** Uso correcto y eficiente de la herramienta de IA/TI en su día a día, y comprensión de los nuevos procesos operativos.
-    *   **Formación Práctica y Hands-on:** Utilizamos simulaciones, ejercicios prácticos y ejemplos reales de tu operación para asegurar una comprensión profunda y un dominio efectivo de la herramienta y los nuevos flujos de trabajo.
-    *   **Materiales de Apoyo:** Entregamos manuales de usuario, guías rápidas de procesos y acceso a nuestra base de conocimientos para consulta futura, todo enfocado en la solución implementada.
-*   **Enfoque en la Confianza:** Nuestro compromiso es que tu equipo se sienta seguro, competente y adopte los nuevos procesos sin fricciones. Ofrecemos seguimiento post-capacitación para resolver dudas y asegurar una curva de aprendizaje suave. La paciencia y el apoyo son nuestras prioridades.
-*   **Información Clave para el Cliente:** Calendario detallado de capacitaciones, objetivos de aprendizaje por rol y acceso a recursos de soporte.
-
-**Fase 4: Acompañamiento Estratégico y Retención (Creciendo Juntos con Confianza)**
-*   **Objetivo:** Asegurar el éxito continuo de la solución implementada, optimizar su rendimiento y acompañarte en la identificación de nuevas oportunidades de valor con IA, construyendo una relación de confianza a largo plazo.
-*   **Metodología:**
-    *   **Seguimiento Post-Implementación:** Reuniones periódicas (ej. mensuales o trimestrales) para revisar el rendimiento de la solución, analizar KPIs de impacto (ROI, ahorro de tiempo, mejora CX) y realizar ajustes si es necesario.
-    *   **Asesoría Continua y Proactiva:** Te brindamos un canal de comunicación dedicado para consultas estratégicas. Proactivamente identificamos y te informamos sobre nuevas oportunidades de IA que puedan beneficiar a tu negocio, basándonos en nuestro profundo conocimiento de tus operaciones.
-    *   **Mantenimiento y Optimización:** Monitoreamos el funcionamiento de la solución, realizamos actualizaciones necesarias y sugerimos mejoras continuas para maximizar su valor a lo largo del tiempo.
-    *   **Hoja de Ruta de Crecimiento con IA:** Juntos, desarrollamos una visión a futuro sobre cómo puedes expandir el uso de la IA en otras áreas de tu negocio, facilitando la adopción de nuevos servicios con la confianza ya establecida.
-*   **Enfoque en la Confianza:** Demostramos valor continuo más allá de la implementación inicial. Nuestra proactividad, transparencia en los resultados y compromiso con tu crecimiento refuerzan la confianza, convirtiéndonos en tu socio tecnológico preferido a largo plazo.
-*   **Información Clave para el Cliente:** Informes de rendimiento periódicos, planes de optimización propuestos y propuestas de valor para futuras fases de IA.
+#### Fase 4: Acompañamiento Estratégico y Retención (Creciendo Juntos con Confianza)
+*   **Metodología:** **Acuerdo de Nivel de Servicio (SLA) Básico** (Ver Anexo 13), corrección proactiva de errores, seguimiento de versiones y desarrollo de una Hoja de Ruta de Crecimiento con IA.
 
 ---
 
-### 6. Modelo de Negocio del Paquete "Confianza Total"
+### 6. Comparativo Visual de la Oferta: Solución "Confianza Total" vs. Mercado
 
-Nuestra oferta es un **Paquete de Servicio Integral con un Precio Único**, diseñado para ofrecer una solución completa y sin sorpresas. El precio final se determinará después de la Fase 1 (Diagnóstico), asegurando que la inversión se alinee directamente con el valor y el ROI identificado para tu negocio.
-
-*   **Precio Único del Paquete "Confianza Total":** Este valor incluye todas las Fases 1, 2, 3 y la suscripción por la Fase 4 por [X] meses (ej. 12 meses) de Acompañamiento Estratégico y Retención. Se establecerá un precio fijo y transparente que cubra el diagnóstico, la implementación de la solución IA/TI elegida, la capacitación completa de tu personal y el acompañamiento post-implementación.
-    *   **Determinación del Precio:** El precio se definirá después de la "Auditoría Express de Oportunidades de Automatización" (o "Auditoría Integral de Ecosistema Digital", si aplica), permitiéndonos ofrecer una cotización precisa y ajustada al valor real que generaremos.
+| Característica | Paquete HHBC "Confianza Total" | Solución Interna (DIY) | Proveedor Tradicional (Fragmentado) |
+| :--- | :--- | :--- | :--- |
+| **Modelo de Precios** | **Precio Único Fijo** post-diagnóstico. Incluye todo (A-Z). | Alto costo variable en salarios y licencias. | Presupuesto por fases o por horas, propenso a **costos ocultos**. |
+| **Riesgo de Inversión Inicial** | **Mínimo:** Diagnóstico inicial que **puede ser gratis** (Riesgo Cero en la Decisión). | **Alto:** Inversión sin garantía de éxito del proyecto o adopción del personal. | **Medio/Alto:** Riesgo de fallas en integración y de quedarse sin soporte. |
+| **Soporte Post-Entrega** | **Acompañamiento Estratégico (Fase 4, [X] meses) con SLA básico.** | Nulo, depende exclusivamente de la capacidad interna. | Soporte reactivo, generalmente con costo adicional o solo por un periodo muy corto. |
+| **Seguridad y Propiedad de Datos** | **VPS Seguro con HTTPS** y **Garantía Contratada de Propiedad Exclusiva de Datos** para el cliente. | Generalmente depende de las prácticas internas. | A menudo ambigua, con riesgo de uso de datos. |
 
 ---
 
-### 7. Argumentos de Venta y Cierres (Basados en Confianza)
+### 7. Argumentos de Venta y Cierres
 
-**Beneficios clave a destacar (generales del paquete "Confianza Total"):**
-*   **Riesgo Mínimo, Confianza Máxima:** Nuestro enfoque integral y fases validadas eliminan la incertidumbre, garantizando que tu inversión en IA se traduzca en resultados reales.
-*   **Solución Completa, sin Sorpresas:** Olvídate de múltiples proveedores o costos ocultos. Te entregamos un paquete "llave en mano": diagnóstico, implementación, capacitación y soporte continuo.
-*   **Eficiencia Inmediata y Evolutiva:** No solo solucionamos un problema hoy, te acompañamos para que la IA siga generando valor y eficiencia a medida que tu negocio crece.
-*   **Equipo Capacitado y Autónomo:** Empoderamos a tu personal para que dominen las nuevas herramientas y procesos, asegurando una adopción exitosa y sostenible de la tecnología.
-*   **Un Socio para tu Crecimiento:** Más allá de un proyecto, ofrecemos una relación estratégica a largo plazo, siempre buscando la próxima oportunidad para optimizar tu negocio con IA.
+**Beneficios clave a destacar (generales del Paquete "Confianza Total"):**
+*   **Máxima Confianza, Mínimo Riesgo:** Diagnóstico que puede ser gratuito y Precio Único Fijo.
+*   **Solución Llave en Mano y Completa:** Diagnóstico, implementación, capacitación y un año de soporte y optimización.
+*   **Tranquilidad a Largo Plazo:** El acompañamiento estratégico (Fase 4) y un SLA básico garantizan que la solución evolucione y se mantenga óptima.
+*   **Enfoque en la Eficiencia Operacional:** La capacitación se centra en que tu equipo domine los *nuevos procesos*.
+*   **Tecnología de Clase Mundial con Seguridad Certificada:** Usamos lo mejor para garantizar rendimiento, estabilidad y seguridad.
 
 **Frases útiles para cerrar ventas (Reforzando la Confianza):**
-*   “Sabemos que invertir en nuevas tecnologías puede generar dudas. Precisamente por eso, nuestra propuesta es un camino seguro: empezamos con un diagnóstico claro y te garantizamos que la solución se adaptará perfectamente a tu negocio, con un ROI que verás.”
-*   “Muchos clientes nos eligen porque no los dejamos solos. Con nuestra fase de acompañamiento, tu solución de IA siempre estará optimizada y siempre tendrás un experto a tu lado para cualquier nueva necesidad o ajuste.”
-*   “¿Qué pasaría si pudieras implementar una solución de IA que sabes que funcionará, que tu equipo sabrá usar y que además evolucionará contigo? Esa es la seguridad que te ofrece nuestro paquete 'Confianza Total'.”
-*   “Elimina el riesgo de 'proyectos fallidos'. Con nosotros, cada fase es transparente, cada entregable es validado contigo, y tu equipo estará listo. ¿Estás listo para dar el paso con total tranquilidad?”
-*   “Entendemos tus prioridades de negocio. Permítanos demostrarte cómo nuestra metodología integral puede no solo resolver tus desafíos actuales con IA, sino también prepararte para el futuro, con una inversión clara y un retorno garantizado. ¿Cuándo podemos iniciar el diagnóstico de tus procesos clave?”
+*   “Te ofrecemos la única manera de invertir en IA sabiendo exactamente cuánto costará y qué resultados obtendrás. Es una inversión *fija* en un retorno garantizado.”
+*   “Podemos empezar con la Auditoría Express de cortesía. De esa forma, el primer paso en tu inversión tiene **riesgo cero**, y tienes la información necesaria para tomar una decisión informada.”
+*   “La principal razón por la que nuestros clientes se quedan es por la Fase 4: te acompañamos por [X] meses. La implementación es solo el inicio; nosotros te aseguramos el éxito continuo con un SLA.”
+*   “¿Estás listo para dar el paso con la seguridad de que tu inversión generará el impacto que esperas? ¿Iniciamos el diagnóstico la próxima semana para asegurar tu espacio en la agenda de implementación?”
 
 ---
 
 ### 8. Sistema de Compensación para Vendedores
 
 **Tipo de Comisión:**
-*   **Comisión inicial (por Paquete Integral):** [Porcentaje alto, ej. 15-25%] - Se paga sobre el precio único del Paquete "Confianza Total" por cada cliente nuevo. Esto recompensa la venta de alto valor y la apertura de una relación estratégica.
-*   **Comisión por Retención/Crecimiento
+*   **Comisión inicial:** **[15% - 20%]** - Se paga sobre el **Precio Único Total del Paquete "Confianza Total"** por cada cliente nuevo.
+*   **Comisión de continuidad:** **[5% - 10%]** - Se paga sobre la **renovación anual del servicio de Acompañamiento Estratégico (Fase 4)**.
+
+---
+
+### 9. Proceso de Venta Recomendado
+
+| Paso | Descripción breve del paso |
+| :--- | :--- |
+| **Identificar segmento (Calificación)** | Calificar al cliente según sus **Puntos de Dolor** y su madurez digital. |
+| **Presentar el problema (Enfoque en el Riesgo)** | Articular los desafíos y el **Alto Riesgo y la Complejidad** de abordar la IA sin un socio integral. |
+| **Ofrecer la solución (Riesgo Cero)** | Presentar el **Paquete "Confianza Total"** y la opción de la **Auditoría Express Gratuita**. |
+| **Resaltar beneficios (ROI y Tranquilidad)** | Enfocarse en el valor del **Precio Único Fijo**, la **Garantía de Datos**, y el **Acompañamiento Estratégico**. |
+| **Cerrar la venta (El Compromiso Integral)** | Guía al cliente a la **firma del contrato integral** post-auditoría, enfatizando que el precio ya cubre *todos* los pasos. |
+| **Registrar al cliente** | Documentar la venta y asegurar una transferencia fluida al equipo de Implementación. |
+| **Dar seguimiento** | Mantener contacto y ser el punto de contacto para nuevas oportunidades de expansión de IA. |
+
+---
+
+### 10. Material de Apoyo que deben Conocer los Vendedores
+
+*   Brochure Oficial del Paquete "Confianza Total".
+*   Lista de Servicios/Productos Adicionales (Catálogo de soluciones).
+*   Argumentario de Objeciones Comunes y Respuestas.
+*   Casos de Éxito o Estudios de Caso Relevantes (con cifras de ROI).
+*   Documento Técnico de Tecnologías (n8n, Claude, PostgreSQL, Seguridad VPS).
+*   Guía de Uso del SLA Básico (Anexo 13).
+*   Contrato Tipo y Política de Pagos/Renovación.
+
+---
+
+### 11. Ejemplo de Objeciones y Cómo Responder
+
+| Objeción | Respuesta Recomendada |
+| :--- | :--- |
+| **"El precio único es muy alto, prefiero pagar por fases."** | **"El precio único elimina los costos ocultos y la incertidumbre. Pagar por fases es pagar por *horas*, con riesgo de sobrecostos. La pregunta es: ¿Cuánto vale la tranquilidad de tener el éxito garantizado?"** |
+| **"Me preocupa la seguridad de los datos con tanta IA externa."** | **"Por contrato, la Garantía de Propiedad de Datos es para usted, y alojamos la solución en un VPS seguro con HTTPS. Nuestro compromiso es la ética y la seguridad, no la recolección de su información."** |
+| **"Es demasiado tiempo para implementar, necesitamos ver resultados rápidos."** | **"El tiempo dedicado a las Fases de MVP y Prueba Transparente garantiza que la solución funcione al 100% y no al 60%. Es mejor hacerlo bien una vez, que tener que corregir constantemente, ¿no le parece?"** |
+| **"Mi equipo es resistente al cambio y no usará las nuevas herramientas."** | **"Nuestra Fase 3 se centra en los *nuevos procesos*, no en enseñarles código. Al final, su equipo sentirá que la IA es un asistente, no una carga. Le enseñamos a usar la solución, no a construirla."** |
+
+---
+
+### 12. Resumen Final para Vendedores
+
+Apunta a la **Tranquilidad y la Seguridad del Retorno de la Inversión (ROI)** como el valor central.
+
+Usa ejemplos reales de la **Ingeniería de Procesos** (cómo se transforma el flujo de trabajo) para generar impacto.
+
+Ofrece siempre el **Paquete "Confianza Total"** completo como punto de partida, luego utiliza la Auditoría Gratuita como herramienta de negociación para reducir el riesgo inicial.
+
+Sé consultivo, no solo comercial: transmite que vendemos **Asociación Estratégica a Largo Plazo y Soluciones Garantizadas**, no solo tecnología.
+
+---
+
+## 13. ANEXO: ACUERDO DE NIVEL DE SERVICIO (SLA) BÁSICO
+
+Este SLA está incluido en el Paquete "Confianza Total" y aplica durante la **Fase 4: Acompañamiento Estratégico y Retención**.
+
+### 13.1. Definición de Clasificación de Incidentes
+
+| Clasificación | Definición del Impacto |
+| :--- | :--- |
+| **Crítico (P1)** | La solución de IA/TI está **completamente inoperable** o produce **errores de datos masivos**. |
+| **Alto (P2)** | La solución está **operativa, pero degradada** o con errores frecuentes que afectan la eficiencia. |
+| **Medio (P3)** | Fallo menor, no recurrente, o una pregunta operativa que no detiene el proceso. |
+
+### 13.2. Tiempos de Respuesta y Resolución Garantizados
+
+Los tiempos se miden en horas hábiles (Lunes a Viernes, de 9:00 a 18:00 hora local del cliente):
+
+| Clasificación | Tiempo Máximo de Respuesta (Acuse de Recibo) | Objetivo de Solución (Máximo Tiempo) |
+| :--- | :--- | :--- |
+| **Crítico (P1)** | **1 hora hábil** | **4 horas hábiles** (Objetivo de restauración o *workaround* temporal). |
+| **Alto (P2)** | **2 horas hábiles** | **24 horas hábiles** (Objetivo de solución definitiva o parche). |
+| **Medio (P3)** | **4 horas hábiles** | **48 horas hábiles** (Objetivo de corrección o respuesta definitiva). |
+
+### 13.3. Exclusiones Clave
+
+El SLA no cubre:
+
+*   **Problemas de Infraestructura del Cliente.**
+*   **Nuevas Funcionalidades.**
+*   **Incidentes por Uso Incorrecto.**
+*   **Actualizac
