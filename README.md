@@ -35,6 +35,20 @@ Nuestra oferta integral proporciona una **solución de IA y Optimización de TI 
 
 ---
 
+### 4. Catálogo de Soluciones de IA (Ejemplos de Productos)
+
+El Paquete "Confianza Total" se aplica a la implementación de soluciones de IA que abordan los puntos de dolor más comunes de las PYMES y empresas en crecimiento, tales como:
+
+| Producto de IA | Descripción y Objetivo (Valor) |
+| :--- | :--- |
+| **Agente Recepcionista Virtual (Voz/Chat)** | Asistente de IA que atiende llamadas/chats para agendamiento, confirmación de reservas y consultas de servicios, integrándose con calendarios y CRM. **Objetivo: Liberar personal y optimizar la gestión de citas 24/7.** |
+| **Agente Calificador de Leads con IA (Voz/Chat)** | Sistema de IA que interactúa instantáneamente (llamada/chat) para verificar el potencial de un lead, consultar parámetros clave y calificar su calidad antes de pasarlo a ventas. **Objetivo: Aumentar la conversión de leads.** |
+| **Chatbot de Atención al Cliente y Soporte 24/7** | Chatbot de IA en web/canales para clientes/colaboradores que resuelve consultas frecuentes, guía en procesos simples y automatiza soporte de primer nivel. **Objetivo: Reducir tickets y mejorar satisfacción 24/7.** |
+| **Sistema Automatizado de Digitalización y Extracción de Datos (OCR/IA)** | Solución de OCR y IA que escanea, lee y extrae información estructurada de documentos repetitivos, validando e integrando datos en sistemas de gestión. **Objetivo: Eliminar ingreso manual y mantener bases de datos actualizadas.** |
+| **Sistema Inteligente de Clasificación y Routing de Emails/Tickets (IA/NLP)** | Sistema de IA que analiza el contenido de emails/tickets entrantes, los clasifica por tema/urgencia y los direcciona al equipo adecuado, o sugiere respuestas. **Objetivo: Optimizar flujo de comunicación y tiempos de respuesta.** |
+
+---
+
 ### 5. Metodología de Servicio: El Camino hacia tu Éxito con IA (Paquete "Confianza Total")
 
 #### Fase 1: Diagnóstico y Diseño de Estrategia (La Brújula de tu Transformación)
@@ -75,12 +89,20 @@ Nuestra oferta integral proporciona una **solución de IA y Optimización de TI 
 *   **Máxima Confianza, Mínimo Riesgo:** **Estudio de Viabilidad de Cortesía** y Precio Único Fijo.
 *   **Solución Llave en Mano y Completa:** Incluye soporte y optimización.
 *   **Tranquilidad a Largo Plazo:** Acompañamiento estratégico y SLA que garantizan la evolución y **demuestran el ROI trimestralmente**.
-*   **Tecnología de Clase Mundial con Seguridad Certificada y Arquitectura Escalable.**
+*   **Enfoque Estratégico:** Entendemos que implementamos soluciones como el **Agente Recepcionista Virtual** o la **Clasificación Inteligente de Emails** para liberar el valor de tu equipo humano.
 
 **Frases útiles para cerrar ventas (Reforzando la Confianza):**
 *   “Te ofrecemos la única manera de invertir en IA sabiendo exactamente cuánto costará y qué resultados obtendrás. Es una inversión *fija* en un retorno garantizado.”
 *   “Podemos empezar con la **Auditoría Estratégica de Cortesía**. De esa forma, el primer paso en tu inversión tiene **riesgo cero**, y tienes la información necesaria para tomar una decisión informada basada en el ROI proyectado.”
 *   “La implementación es solo el inicio; nosotros te aseguramos el éxito continuo con un SLA y **Reportes Trimestrales de Impacto**.”
+
+---
+
+### 8. Sistema de Compensación para Vendedores
+
+**Tipo de Comisión:**
+*   **Comisión inicial:** **[15% - 20%]** - Se paga sobre el **Precio Único Total del Paquete "Confianza Total"** por cada cliente nuevo.
+*   **Comisión de continuidad:** **[5% - 10%]** - Se paga sobre la **renovación anual del servicio de Acompañamiento Estratégico (Fase 4)**.
 
 ---
 
@@ -98,44 +120,12 @@ Nuestra oferta integral proporciona una **solución de IA y Optimización de TI 
 
 ---
 
-### 11. Ejemplo de Objeciones y Cómo Responder
+### 10. Material de Apoyo que deben Conocer los Vendedores
 
-| Objeción | Respuesta Recomendada |
-| :--- | :--- |
-| **"El precio único es muy alto, prefiero pagar por fases."** | **"El precio único elimina los costos ocultos y la incertidumbre. Pagar por fases es pagar por *horas*, con riesgo de sobrecostos. La pregunta es: ¿Cuánto vale la tranquilidad de tener el éxito garantizado?"** |
-| **"Me preocupa la seguridad de los datos con tanta IA externa."** | **"Por contrato, la Garantía de Propiedad de Datos es para usted, y alojamos la solución en un VPS seguro con HTTPS. Nuestro compromiso es la ética y la seguridad, no la recolección de su información."** |
-| **"Es demasiado tiempo para implementar, necesitamos ver resultados rápidos."** | **"El tiempo dedicado a las Fases de MVP y Prueba Transparente garantiza que la solución funcione al 100% y no al 60%. Es mejor hacerlo bien una vez, que tener que corregir constantemente, ¿no le parece?"** |
-| **"Mi equipo es resistente al cambio y no usará las nuevas herramientas."** | **"Nuestra Fase 3 se centra en los *nuevos procesos*, no en enseñarles código. Al final, su equipo sentirá que la IA es un asistente, no una carga. Le enseñamos a usar la solución, no a construirla."** |
-
----
-
-### 13. ANEXO: ACUERDO DE NIVEL DE SERVICIO (SLA) BÁSICO
-
-Este SLA está incluido en el Paquete "Confianza Total" y aplica durante la **Fase 4: Acompañamiento Estratégico y Retención**.
-
-#### 13.1. Definición de Clasificación de Incidentes
-
-| Clasificación | Definición del Impacto |
-| :--- | :--- |
-| **Crítico (P1)** | La solución de IA/TI está **completamente inoperable** o produce **errores de datos masivos**. |
-| **Alto (P2)** | La solución está **operativa, pero degradada** o con errores frecuentes que afectan la eficiencia. |
-| **Medio (P3)** | Fallo menor, no recurrente, o una pregunta operativa que no detiene el proceso. |
-
-#### 13.2. Tiempos de Respuesta y Resolución Garantizados
-
-Los tiempos se miden en horas hábiles (Lunes a Viernes, de 9:00 a 18:00 hora local del cliente):
-
-| Clasificación | Tiempo Máximo de Respuesta (Acuse de Recibo) | Objetivo de Solución (Máximo Tiempo) |
-| :--- | :--- | :--- |
-| **Crítico (P1)** | **1 hora hábil** | **4 horas hábiles** (Objetivo de restauración o *workaround* temporal). |
-| **Alto (P2)** | **2 horas hábiles** | **24 horas hábiles** (Objetivo de solución definitiva o parche). |
-| **Medio (P3)** | **4 horas hábiles** | **48 horas hábiles** (Objetivo de corrección o respuesta definitiva). |
-
-#### 13.3. Exclusiones Clave
-
-El SLA no cubre:
-
-*   **Problemas de Infraestructura No Administrada por HHBC** (Redes internas, equipos de usuario final, o sistemas no integrados en la solución). **La infraestructura de VPS provista y administrada por HHBC está cubierta por este SLA.**
-*   **Nuevas Funcionalidades.**
-*   **Incidentes por Uso Incorrecto.**
-*   **Actualizaciones Mayores de IA (Ej. Migración de modelo).**
+*   Brochure Oficial del Paquete "Confianza Total".
+*   **Catálogo de Soluciones de IA (Sección 4)** con Ejemplos de ROI por tipo de producto.
+*   Argumentario de Objeciones Comunes y Respuestas.
+*   Casos de Éxito o Estudios de Caso Relevantes (con cifras de ROI).
+*   Documento Técnico de Tecnologías (n8n, Claude, PostgreSQL, Seguridad VPS).
+*   Documento de Posición de HHBC sobre Ética y Gobernanza de la IA (Explicabilidad, Datos, Sesgos).
+*   Guía de Uso
