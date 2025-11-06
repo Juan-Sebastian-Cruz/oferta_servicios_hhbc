@@ -16,7 +16,7 @@ Esta oferta está diseñada para PYMES y empresas en crecimiento que buscan una 
 
 Nuestra oferta integral proporciona una **solución de IA y Optimización de TI llave en mano**, con un enfoque **absolutamente centrado en la confianza, la transparencia y el éxito a largo plazo**.
 
-**Nuestro Compromiso de Confianza:** Garantizamos la **Propiedad Exclusiva de tus Datos** y operamos bajo un estricto **Compromiso con la Ética de la IA**, asegurando privacidad, transparencia y equidad en todas las soluciones implementadas.
+**Nuestro Compromiso de Confianza:** Garantizamos la **Propiedad Exclusiva de tus Datos** y operamos bajo un estricto **Marco de Gobernanza de IA**, asegurando privacidad, **Mitigación de Sesgos** y total **Trazabilidad** en todas las soluciones implementadas.
 
 > “Confía en que tu inversión en IA generará el impacto que esperas, porque estaremos contigo en cada paso del camino, desde el diagnóstico hasta el mantenimiento continuo.”
 
@@ -24,37 +24,37 @@ Nuestra oferta integral proporciona una **solución de IA y Optimización de TI 
 
 ### 📊 3. Entregables Principales del Paquete "Confianza Total"
 
-**Nota Importante sobre Precios:** Nuestra oferta es un **Paquete Integral "Confianza Total"**, con un precio único que abarca todas las fases. El valor final se cotizará tras la **Auditoría Express** inicial.
+**Nota Importante sobre Precios:** Nuestra oferta es un **Paquete Integral "Confianza Total"**, con un precio único que abarca todas las fases. El valor final se cotizará tras el **Estudio de Viabilidad** inicial.
 
 | Categoría de Servicio | Entregable | Descripción |
 | :--- | :--- | :--- |
-| **Diagnóstico y Diseño Estratégico** | Auditoría Express de Oportunidades de Automatización | Análisis rápido de 3-5 procesos clave. **Puede ser entregada gratuitamente** para demostrar el ROI potencial y reducir el riesgo inicial. |
-| **Implementación de Solución IA/TI** | Solución de IA/TI a la Medida | Implementación completa (MVP, Prueba, Entrega), alojada en **VPS seguro con HTTPS**, usando tecnologías Top (OpenAI, Claude, Postgress, etc.). |
+| **Diagnóstico y Diseño Estratégico** | Auditoría Estratégica y Estimación de ROI | Análisis rápido de 3-5 procesos clave. **Entregable: Plan de Transformación con KPIs de Éxito y Proyección de ROI a 12 meses.** Se ofrece como **Estudio de Viabilidad sin Costo Inicial** para reducir el riesgo. |
+| **Implementación de Solución IA/TI** | Solución de IA/TI a la Medida | Implementación completa (MVP, Prueba, Entrega), alojada en **VPS Administrado por HHBC (Arquitectura Cloud-Ready)** con cifrado de datos y HTTPS. **Garantía de Escalabilidad Progresiva.** |
 | **Capacitación y Adopción de Procesos** | **Capacitación "Procesos y Uso"** | Entrenamiento práctico enfocado en los **nuevos flujos de trabajo y buenas prácticas operacionales**. Garantiza la adopción. |
-| **Retención y Valor Continuo (Fase 4)** | Acompañamiento Estratégico (Incluido) | Seguimiento de KPIs, **corrección proactiva de errores, seguimiento de versiones** y optimización continua. Incluye **SLA Básico (Anexo 13)**. |
+| **Retención y Valor Continuo (Fase 4)** | Acompañamiento Estratégico (Incluido) | Seguimiento **Trimestral de KPIs y ROI**, corrección proactiva de errores, seguimiento de versiones y optimización continua. Incluye **SLA Básico (Anexo 13)**. |
 
 ---
 
 ### 5. Metodología de Servicio: El Camino hacia tu Éxito con IA (Paquete "Confianza Total")
 
 #### Fase 1: Diagnóstico y Diseño de Estrategia (La Brújula de tu Transformación)
-*   **Negociación de Riesgo Cero:** **Podemos ofrecer esta Auditoría Express inicial sin costo (gratis)**. Esto minimiza tu riesgo de inversión inicial.
-*   **Co-creación y Presupuesto "Confianza Total":** Se entrega el diseño de solución, estimación de ROI y la propuesta de **Precio Único Final** del paquete.
+*   **Negociación de Riesgo Cero:** **Ofrecemos este Estudio de Viabilidad de Cortesía.** Esto minimiza tu riesgo de inversión inicial, pues la decisión se basa en métricas de ROI.
+*   **Co-creación y Presupuesto "Confianza Total":** Se entrega el diseño de solución, la **estimación de ROI cuantificable** y la propuesta de **Precio Único Final** del paquete.
 
 #### Fase 2: Implementación y Desarrollo (Construyendo tu Solución)
-*   **Fase 2.1: Desarrollo del Producto Mínimo Viable (MVP):** Desarrollo de funcionalidades esenciales. **Acceso a Dashboard de Seguimiento de Proyecto** para ver el progreso. Se integra la solución con tus sistemas existentes o se proponen los más acordes.
-*   **Fase 2.2: Período de Prueba y Puesta en Marcha (Transparencia en la Optimización):** Implementación del MVP para una **revisión intensiva, corrección de errores y pruebas de estrés**. Somos **completamente transparentes** al indicar que este tiempo es crucial para la estabilidad, la mejora continua y la optimización.
+*   **Fase 2.1: Desarrollo del Producto Mínimo Viable (MVP):** Desarrollo de funcionalidades esenciales. **Acceso a Dashboard de Seguimiento de Proyecto** para ver el progreso.
+*   **Fase 2.2: Período de Prueba y Puesta en Marcha (Transparencia en la Optimización):** Implementación del MVP para una **revisión intensiva, corrección de errores y pruebas de estrés**.
 *   **Tecnologías Top del Mercado para Máximo Rendimiento:**
     *   **Orquestación:** n8n o Make.
     *   **Modelos de IA Avanzados:** OpenAI, Google AI (Gemini), Anthropic **Claude** y **Perplexity**.
     *   **Gestión de Datos a la Medida:** **PostgreSQL, Redis, Supabase** o Google Sheets, según la necesidad.
-    *   **Seguridad Certificada:** Solución alojada en **VPS** con **cifrado de datos y certificación HTTPS**.
+    *   **Seguridad Certificada:** Solución alojada en **VPS Administrado por HHBC** con **cifrado de datos y certificación HTTPS**.
 
 #### Fase 3: Capacitación y Habilitación (Empoderando a tu Equipo con Nuevos Procesos)
-*   **Enfoque en la Confianza:** Nuestro compromiso es que tu equipo se sienta **seguro y competente** a través de la formación práctica centrada exclusivamente en los **nuevos flujos de trabajo**.
+*   **Enfoque en la Confianza:** Formación práctica centrada en los **nuevos flujos de trabajo**.
 
 #### Fase 4: Acompañamiento Estratégico y Retención (Creciendo Juntos con Confianza)
-*   **Metodología:** **Acuerdo de Nivel de Servicio (SLA) Básico** (Ver Anexo 13), corrección proactiva de errores, seguimiento de versiones y desarrollo de una Hoja de Ruta de Crecimiento con IA.
+*   **Metodología:** **Acuerdo de Nivel de Servicio (SLA) Básico**, **reportes trimestrales de desempeño y ROI**, corrección proactiva de errores, y desarrollo de una Hoja de Ruta de Crecimiento con IA.
 
 ---
 
@@ -63,34 +63,24 @@ Nuestra oferta integral proporciona una **solución de IA y Optimización de TI 
 | Característica | Paquete HHBC "Confianza Total" | Solución Interna (DIY) | Proveedor Tradicional (Fragmentado) |
 | :--- | :--- | :--- | :--- |
 | **Modelo de Precios** | **Precio Único Fijo** post-diagnóstico. Incluye todo (A-Z). | Alto costo variable en salarios y licencias. | Presupuesto por fases o por horas, propenso a **costos ocultos**. |
-| **Riesgo de Inversión Inicial** | **Mínimo:** Diagnóstico inicial que **puede ser gratis** (Riesgo Cero en la Decisión). | **Alto:** Inversión sin garantía de éxito del proyecto o adopción del personal. | **Medio/Alto:** Riesgo de fallas en integración y de quedarse sin soporte. |
-| **Soporte Post-Entrega** | **Acompañamiento Estratégico (Fase 4, [X] meses) con SLA básico.** | Nulo, depende exclusivamente de la capacidad interna. | Soporte reactivo, generalmente con costo adicional o solo por un periodo muy corto. |
-| **Seguridad y Propiedad de Datos** | **VPS Seguro con HTTPS** y **Garantía Contratada de Propiedad Exclusiva de Datos** para el cliente. | Generalmente depende de las prácticas internas. | A menudo ambigua, con riesgo de uso de datos. |
+| **Riesgo de Inversión Inicial** | **Mínimo:** **Estudio de Viabilidad sin Costo Inicial** (Riesgo Cero en la Decisión). | **Alto:** Inversión sin garantía de éxito del proyecto o adopción del personal. | **Medio/Alto:** Riesgo de fallas en integración y de quedarse sin soporte. |
+| **Soporte Post-Entrega** | **Acompañamiento Estratégico (Fase 4, [X] meses) con SLA básico y Reportes de ROI.** | Nulo, depende exclusivamente de la capacidad interna. | Soporte reactivo, generalmente con costo adicional o solo por un periodo muy corto. |
+| **Seguridad y Propiedad de Datos** | **VPS Administrado (Cloud-Ready)**, HTTPS, y **Garantía Contratada de Propiedad Exclusiva de Datos**. | Generalmente depende de las prácticas internas. | A menudo ambigua, con riesgo de uso de datos. |
 
 ---
 
 ### 7. Argumentos de Venta y Cierres
 
 **Beneficios clave a destacar (generales del Paquete "Confianza Total"):**
-*   **Máxima Confianza, Mínimo Riesgo:** Diagnóstico que puede ser gratuito y Precio Único Fijo.
-*   **Solución Llave en Mano y Completa:** Diagnóstico, implementación, capacitación y un año de soporte y optimización.
-*   **Tranquilidad a Largo Plazo:** El acompañamiento estratégico (Fase 4) y un SLA básico garantizan que la solución evolucione y se mantenga óptima.
-*   **Enfoque en la Eficiencia Operacional:** La capacitación se centra en que tu equipo domine los *nuevos procesos*.
-*   **Tecnología de Clase Mundial con Seguridad Certificada:** Usamos lo mejor para garantizar rendimiento, estabilidad y seguridad.
+*   **Máxima Confianza, Mínimo Riesgo:** **Estudio de Viabilidad de Cortesía** y Precio Único Fijo.
+*   **Solución Llave en Mano y Completa:** Incluye soporte y optimización.
+*   **Tranquilidad a Largo Plazo:** Acompañamiento estratégico y SLA que garantizan la evolución y **demuestran el ROI trimestralmente**.
+*   **Tecnología de Clase Mundial con Seguridad Certificada y Arquitectura Escalable.**
 
 **Frases útiles para cerrar ventas (Reforzando la Confianza):**
 *   “Te ofrecemos la única manera de invertir en IA sabiendo exactamente cuánto costará y qué resultados obtendrás. Es una inversión *fija* en un retorno garantizado.”
-*   “Podemos empezar con la Auditoría Express de cortesía. De esa forma, el primer paso en tu inversión tiene **riesgo cero**, y tienes la información necesaria para tomar una decisión informada.”
-*   “La principal razón por la que nuestros clientes se quedan es por la Fase 4: te acompañamos por [X] meses. La implementación es solo el inicio; nosotros te aseguramos el éxito continuo con un SLA.”
-*   “¿Estás listo para dar el paso con la seguridad de que tu inversión generará el impacto que esperas? ¿Iniciamos el diagnóstico la próxima semana para asegurar tu espacio en la agenda de implementación?”
-
----
-
-### 8. Sistema de Compensación para Vendedores
-
-**Tipo de Comisión:**
-*   **Comisión inicial:** **[15% - 20%]** - Se paga sobre el **Precio Único Total del Paquete "Confianza Total"** por cada cliente nuevo.
-*   **Comisión de continuidad:** **[5% - 10%]** - Se paga sobre la **renovación anual del servicio de Acompañamiento Estratégico (Fase 4)**.
+*   “Podemos empezar con la **Auditoría Estratégica de Cortesía**. De esa forma, el primer paso en tu inversión tiene **riesgo cero**, y tienes la información necesaria para tomar una decisión informada basada en el ROI proyectado.”
+*   “La implementación es solo el inicio; nosotros te aseguramos el éxito continuo con un SLA y **Reportes Trimestrales de Impacto**.”
 
 ---
 
@@ -98,25 +88,13 @@ Nuestra oferta integral proporciona una **solución de IA y Optimización de TI 
 
 | Paso | Descripción breve del paso |
 | :--- | :--- |
-| **Identificar segmento (Calificación)** | Calificar al cliente según sus **Puntos de Dolor** y su madurez digital. |
+| **Identificar segmento (Calificación)** | Calificar al cliente según sus **Puntos de Dolor**. |
 | **Presentar el problema (Enfoque en el Riesgo)** | Articular los desafíos y el **Alto Riesgo y la Complejidad** de abordar la IA sin un socio integral. |
-| **Ofrecer la solución (Riesgo Cero)** | Presentar el **Paquete "Confianza Total"** y la opción de la **Auditoría Express Gratuita**. |
-| **Resaltar beneficios (ROI y Tranquilidad)** | Enfocarse en el valor del **Precio Único Fijo**, la **Garantía de Datos**, y el **Acompañamiento Estratégico**. |
-| **Cerrar la venta (El Compromiso Integral)** | Guía al cliente a la **firma del contrato integral** post-auditoría, enfatizando que el precio ya cubre *todos* los pasos. |
-| **Registrar al cliente** | Documentar la venta y asegurar una transferencia fluida al equipo de Implementación. |
-| **Dar seguimiento** | Mantener contacto y ser el punto de contacto para nuevas oportunidades de expansión de IA. |
-
----
-
-### 10. Material de Apoyo que deben Conocer los Vendedores
-
-*   Brochure Oficial del Paquete "Confianza Total".
-*   Lista de Servicios/Productos Adicionales (Catálogo de soluciones).
-*   Argumentario de Objeciones Comunes y Respuestas.
-*   Casos de Éxito o Estudios de Caso Relevantes (con cifras de ROI).
-*   Documento Técnico de Tecnologías (n8n, Claude, PostgreSQL, Seguridad VPS).
-*   Guía de Uso del SLA Básico (Anexo 13).
-*   Contrato Tipo y Política de Pagos/Renovación.
+| **Ofrecer la solución (Riesgo Cero)** | Presentar el **Paquete "Confianza Total"** y la opción de la **Auditoría Estratégica de Cortesía** (Estudio de Viabilidad sin Costo Inicial). |
+| **Resaltar beneficios (ROI y Tranquilidad)** | Enfocarse en el valor del **Precio Único Fijo**, la **Garantía de Datos**, y el **Acompañamiento Estratégico con Reportes de ROI**. |
+| **Cerrar la venta (El Compromiso Integral)** | Guía al cliente a la **firma del contrato integral** post-auditoría. |
+| **Registrar al cliente** | Documentar la venta. |
+| **Dar seguimiento** | Mantener contacto para nuevas oportunidades de expansión de IA. |
 
 ---
 
@@ -131,23 +109,11 @@ Nuestra oferta integral proporciona una **solución de IA y Optimización de TI 
 
 ---
 
-### 12. Resumen Final para Vendedores
-
-Apunta a la **Tranquilidad y la Seguridad del Retorno de la Inversión (ROI)** como el valor central.
-
-Usa ejemplos reales de la **Ingeniería de Procesos** (cómo se transforma el flujo de trabajo) para generar impacto.
-
-Ofrece siempre el **Paquete "Confianza Total"** completo como punto de partida, luego utiliza la Auditoría Gratuita como herramienta de negociación para reducir el riesgo inicial.
-
-Sé consultivo, no solo comercial: transmite que vendemos **Asociación Estratégica a Largo Plazo y Soluciones Garantizadas**, no solo tecnología.
-
----
-
-## 13. ANEXO: ACUERDO DE NIVEL DE SERVICIO (SLA) BÁSICO
+### 13. ANEXO: ACUERDO DE NIVEL DE SERVICIO (SLA) BÁSICO
 
 Este SLA está incluido en el Paquete "Confianza Total" y aplica durante la **Fase 4: Acompañamiento Estratégico y Retención**.
 
-### 13.1. Definición de Clasificación de Incidentes
+#### 13.1. Definición de Clasificación de Incidentes
 
 | Clasificación | Definición del Impacto |
 | :--- | :--- |
@@ -155,7 +121,7 @@ Este SLA está incluido en el Paquete "Confianza Total" y aplica durante la **Fa
 | **Alto (P2)** | La solución está **operativa, pero degradada** o con errores frecuentes que afectan la eficiencia. |
 | **Medio (P3)** | Fallo menor, no recurrente, o una pregunta operativa que no detiene el proceso. |
 
-### 13.2. Tiempos de Respuesta y Resolución Garantizados
+#### 13.2. Tiempos de Respuesta y Resolución Garantizados
 
 Los tiempos se miden en horas hábiles (Lunes a Viernes, de 9:00 a 18:00 hora local del cliente):
 
@@ -165,11 +131,11 @@ Los tiempos se miden en horas hábiles (Lunes a Viernes, de 9:00 a 18:00 hora lo
 | **Alto (P2)** | **2 horas hábiles** | **24 horas hábiles** (Objetivo de solución definitiva o parche). |
 | **Medio (P3)** | **4 horas hábiles** | **48 horas hábiles** (Objetivo de corrección o respuesta definitiva). |
 
-### 13.3. Exclusiones Clave
+#### 13.3. Exclusiones Clave
 
 El SLA no cubre:
 
-*   **Problemas de Infraestructura del Cliente.**
+*   **Problemas de Infraestructura No Administrada por HHBC** (Redes internas, equipos de usuario final, o sistemas no integrados en la solución). **La infraestructura de VPS provista y administrada por HHBC está cubierta por este SLA.**
 *   **Nuevas Funcionalidades.**
 *   **Incidentes por Uso Incorrecto.**
-*   **Actualizac
+*   **Actualizaciones Mayores de IA (Ej. Migración de modelo).**
