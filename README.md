@@ -128,4 +128,61 @@ El Paquete "Confianza Total" se aplica a la implementación de soluciones de IA 
 *   Casos de Éxito o Estudios de Caso Relevantes (con cifras de ROI).
 *   Documento Técnico de Tecnologías (n8n, Claude, PostgreSQL, Seguridad VPS).
 *   Documento de Posición de HHBC sobre Ética y Gobernanza de la IA (Explicabilidad, Datos, Sesgos).
-*   Guía de Uso
+*   Guía de Uso del SLA Básico (Anexo 13).
+*   Contrato Tipo y Política de Pagos/Renovación.
+
+---
+
+### 11. Ejemplo de Objeciones y Cómo Responder
+
+| Objeción | Respuesta Recomendada |
+| :--- | :--- |
+| **"El precio único es muy alto, prefiero pagar por fases."** | **"El precio único elimina los costos ocultos y la incertidumbre. Pagar por fases es pagar por *horas*, con riesgo de sobrecostos. La pregunta es: ¿Cuánto vale la tranquilidad de tener el éxito garantizado?"** |
+| **"Me preocupa la seguridad de los datos con tanta IA externa."** | **"Por contrato, la Garantía de Propiedad de Datos es para usted, y alojamos la solución en un VPS seguro con HTTPS. Nuestro compromiso es la ética y la seguridad, no la recolección de su información."** |
+| **"Es demasiado tiempo para implementar, necesitamos ver resultados rápidos."** | **"El tiempo dedicado a las Fases de MVP y Prueba Transparente garantiza que la solución funcione al 100% y no al 60%. Es mejor hacerlo bien una vez, que tener que corregir constantemente, ¿no le parece?"** |
+| **"Mi equipo es resistente al cambio y no usará las nuevas herramientas."** | **"Nuestra Fase 3 se centra en los *nuevos procesos*, no en enseñarles código. Al final, su equipo sentirá que la IA es un asistente, no una carga. Le enseñamos a usar la solución, no a construirla."** |
+
+---
+
+### 12. Resumen Final para Vendedores
+
+Apunta a la **Tranquilidad y la Seguridad del Retorno de la Inversión (ROI)** como el valor central.
+
+Usa ejemplos reales del **Catálogo de Soluciones (Sección 4)** para generar impacto.
+
+Ofrece siempre el **Paquete "Confianza Total"** completo como punto de partida, luego utiliza la Auditoría Estratégica de Cortesía como herramienta de negociación para reducir el riesgo inicial.
+
+Sé consultivo, no solo comercial: transmite que vendemos **Asociación Estratégica a Largo Plazo y Soluciones Garantizadas**, no solo tecnología.
+
+---
+
+### 13. ANEXO: ACUERDO DE NIVEL DE SERVICIO (SLA) BÁSICO
+
+Este SLA está incluido en el Paquete "Confianza Total" y aplica durante la **Fase 4: Acompañamiento Estratégico y Retención**.
+
+#### 13.1. Definición de Clasificación de Incidentes
+
+| Clasificación | Definición del Impacto |
+| :--- | :--- |
+| **Crítico (P1)** | La solución de IA/TI está **completamente inoperable** o produce **errores de datos masivos**. |
+| **Alto (P2)** | La solución está **operativa, pero degradada** o con errores frecuentes que afectan la eficiencia. |
+| **Medio (P3)** | Fallo menor, no recurrente, o una pregunta operativa que no detiene el proceso. |
+
+#### 13.2. Tiempos de Respuesta y Resolución Garantizados
+
+Los tiempos se miden en horas hábiles (Lunes a Viernes, de 9:00 a 18:00 hora local del cliente):
+
+| Clasificación | Tiempo Máximo de Respuesta (Acuse de Recibo) | Objetivo de Solución (Máximo Tiempo) |
+| :--- | :--- | :--- |
+| **Crítico (P1)** | **1 hora hábil** | **4 horas hábiles** (Objetivo de restauración o *workaround* temporal). |
+| **Alto (P2)** | **2 horas hábiles** | **24 horas hábiles** (Objetivo de solución definitiva o parche). |
+| **Medio (P3)** | **4 horas hábiles** | **48 horas hábiles** (Objetivo de corrección o respuesta definitiva). |
+
+#### 13.3. Exclusiones Clave
+
+El SLA no cubre:
+
+*   **Problemas de Infraestructura No Administrada por HHBC** (Redes internas, equipos de usuario final, o sistemas no integrados en la solución). **La infraestructura de VPS provista y administrada por HHBC está cubierta por este SLA.**
+*   **Nuevas Funcionalidades.**
+*   **Incidentes por Uso Incorrecto.**
+*   **Actualizaciones Mayores de IA (Ej. Migración de modelo).**
