@@ -8,15 +8,15 @@
 
 ### 1. Propósito General de esta Oferta
 
-Esta oferta está diseñada para PYMES y empresas en crecimiento que buscan una transformación digital real y medible a través de la Inteligencia Artificial y la automatización. Nuestro objetivo es ser tu **socio de confianza**, eliminando la complejidad y el riesgo asociados a la adopción tecnológica, brindando una solución **todo incluido** (Diagnóstico, Implementación, Capacitación y Acompañamiento Estratégico).
+Esta oferta está diseñada para empresas que buscan una transformación digital real y medible a través de la Inteligencia Artificial y la automatización. Nuestro objetivo es ser tu **socio de confianza**, eliminando la complejidad y el riesgo asociados a la adopción tecnológica, brindando una solución **todo incluido** (Diagnóstico, Implementación, Capacitación y Acompañamiento Estratégico).
 
 ---
 
 ### 2. Propuesta de Valor Central: CONFIANZA TOTAL
 
-Nuestra oferta integral proporciona una **solución de IA y Optimización de TI llave en mano**, con un enfoque **absolutamente centrado en la confianza, la transparencia y el éxito a largo plazo**.
+Nuestra oferta integral proporciona una **solución de IA y Optimización de TI llave en mano**, con un enfoque **absolutamente centrado en la confianza, la transparencia y el éxito a largo plazo**. Integramos estas soluciones a tus sistemas de gestión ERP y CRM, y si no cuentas con ninguno de estos trabajaremos para implementar uno acorde a tu negocio.
 
-**Nuestro Compromiso de Confianza:** Garantizamos la **Propiedad Exclusiva de tus Datos** y operamos bajo un estricto **Marco de Gobernanza de IA**, asegurando privacidad, **Mitigación de Sesgos** y total **Trazabilidad** en todas las soluciones implementadas.
+**Nuestro Compromiso de Confianza:** Garantizamos la **Propiedad Exclusiva de tus Datos** y operamos bajo un estricto **Marco de Gobernanza de IA**, asegurando privacidad, **Mitigación de Sesgos** y total **Trazabilidad** en todas las soluciones implementadas. Además, nos comprometemos a **entender tu negocio al 100%**, para que nuestras soluciones te generen retornos reales.
 
 > “Confía en que tu inversión en IA generará el impacto que esperas, porque estaremos contigo en cada paso del camino, desde el diagnóstico hasta el mantenimiento continuo.”
 
